@@ -1,0 +1,19 @@
+p {
+    color:green;
+    text-align: center; 
+    font-size: 22px;
+}
+
+#second-heading {
+    /* underline all second headings */
+    text-decoration: underline !important;
+}
+
+.special-div {
+    text-align: right;
+}
+
+p.center {
+    text-align: center;
+    color: red;
+  }
